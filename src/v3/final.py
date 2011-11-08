@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import numpy as n
 import pylab as p
-import pca_module as pca
+#import pca_module as pca
 
 arquivo_notas = 'notas_compositores.txt'
 agents = ['Monteverdi', 'Bach', 'Mozart', 'Beethoven', 'Brahms', 'Stravinsky', 'Stockhausen']
